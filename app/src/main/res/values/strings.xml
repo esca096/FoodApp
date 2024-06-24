@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="my_restaurant_app">My Restaurant App</string>
+    <string name="explore_your_dream_food">explore your dream food</string>
+    <string name="hello_explore_your_dream_food" />
+    <string name="hello_explore_your_dream_foods">hello_explore_your_dream_food</string>
+    <string name="hello_exploreyour_dream_foods">hello exploreyour dream foods</string>
+    <string name="sign_in">Sign in</string>
+    <string name="Hello_explore_your_dream_food">Hello Explore your dream food</string>
+    <string name="register">register</string>
+    <string name="Register">Register</string>
+    <string name="full_name">Full name</string>
+    <string name="Email_address">Email address</string>
+    <string name="Password">Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cards">My Cards</string>
+    <string name="my_carts">My cart\n</string>
+    <string name="escanorlion_gmail_com">escanorlion@gmail.com</string>
+    <string name="s_t_c">S T C</string>
+    <string name="favorite">Favorite</string>
+    <string name="_10_00_23_00">10:00 - 23:00</string>
+    <string name="_5_0">5.0</string>
+    <string name="product_name">Product Name</string>
+    <string name="e_s_c_a">E S C A</string>
+    <string name="e_s_c_a_n_o_r">escanor</string>
+    <string name="e_s_c_a_0_89">esca089</string>
+</resources>
